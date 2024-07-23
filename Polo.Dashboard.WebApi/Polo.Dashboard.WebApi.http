@@ -1,0 +1,6 @@
+@Polo.Dashboard.WebApi_HostAddress = http://localhost:5142
+
+GET {{Polo.Dashboard.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

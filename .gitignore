@@ -1,0 +1,44 @@
+# Arquivos binários e de objeto
+bin/
+obj/
+out/
+
+# Arquivos de configuração do usuário do Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de Build
+_ReSharper*/
+[Bb]uild[Ll]og.*
+
+# Arquivos NuGet
+**/[Pp]ackages/*
+**/[Pp]ackage[Rr]eference.*
+*.nupkg
+*.snupkg
+
+# Arquivos de Ignorar o Rastreamento de Dados Sensíveis
+appsettings.*.json
+
+# Certificados SSL
+**/*.pfx
+**/*.cer
+
+# Arquivos de logs
+*.log
+*.log.*
+
+# Outros arquivos e pastas a serem ignorados
+*.[Oo]bj
+*.pidb
+*.svclog
+*.mdf
+*.ldf
+*.dbmdl
+*.jfm
+node_modules/
+# .gitignore
